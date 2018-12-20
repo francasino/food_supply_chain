@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 pragma experimental ABIEncoderV2;
 
-contract Drone_logistics{
+contract Food_supply{
 
 	
 	struct Product {
