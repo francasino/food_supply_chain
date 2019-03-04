@@ -16,3 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 *.sol linguist-language=Solidity
+*.solidity linguist-language=Solidity
